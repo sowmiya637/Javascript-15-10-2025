@@ -1,0 +1,21 @@
+{
+  "name": "calculator-testing",
+  "version": "1.0.0",
+  "description": "A project to demonstrate Mocha and Chai testing",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "mocha",
+    "chai",
+    "testing",
+    "unit-tests"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.5.0",
+    "mocha": "^10.8.2"
+  }
+}
